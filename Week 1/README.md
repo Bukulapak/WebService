@@ -25,3 +25,13 @@ Just One time for first instalation of git scm.
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
+
+
+
+## Tugas
+
+1. Buat materi mengenai Web Service (Pengertian, cara kerja, fungsi, contoh) & JSON (Pengertian, fungsi, jenis nilai / value beserta contohnya), 
+
+2. Buat folder dengan format Kelompok_NPM (contoh : Kelompok1_1204001_1204002_1204003) di dalam folder Week 1 --> folder Site,
+
+3. Pull Request Dengan Subjek : 1-KELAS-KELOMPOK.
