@@ -30,7 +30,7 @@ $ git config --global user.email johndoe@example.com
 
 ## Tugas
 
-1. Buat materi mengenai Web Service (Pengertian, cara kerja, fungsi, contoh) & JSON (Pengertian, fungsi, jenis nilai / value beserta contohnya), 
+1. Buat presentasi mengenai Web Service (Pengertian, cara kerja, fungsi, contoh) & JSON (Pengertian, fungsi, jenis nilai / value beserta contohnya), 
 
 2. Dibuat dalam format ppt kemudian yang dikumpulkan pada repository ini adalah file pdf.
 
