@@ -34,6 +34,8 @@ $ git config --global user.email johndoe@example.com
 
 2. Dibuat dalam format ppt kemudian yang dikumpulkan pada repository ini adalah file pdf.
 
-3. Buat folder dengan format Kelompok_NPM (contoh : Kelompok1_1204001_1204002_1204003) di dalam folder Week 1 --> folder Site,
+3. Buat folder dengan format Kelompok_NPM (contoh : Kelompok1_1154001) di dalam folder Week 1 --> folder Site,
 
-4. Pull Request Dengan Subjek : 1-KELAS-KELOMPOK.
+4. Pull Request Dengan Subjek : 1-KELAS-NPM-NAMA,
+
+5. Semua mahasiswa harus submit disini.
