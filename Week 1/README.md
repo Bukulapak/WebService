@@ -1,5 +1,5 @@
-# Pengenalan API dan Tools
-Disini akan digunakan beberapa tools
+# Pengenalan Tools
+Disini akan menggunakan tools Git Bash
 
 # git scm
 Download git-scm dari https://git-scm.com/downloads
